@@ -1,0 +1,10 @@
+:host {
+  height: 100%;
+  display: grid;
+  place-items: center;
+}
+
+.btn-group {
+  display: flex;
+  gap: 8px;
+}
